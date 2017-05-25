@@ -1,0 +1,46 @@
+RUTrento Open Data pacakge
+========================================================
+author: 
+date: 
+autosize: true
+
+
+
+
+<img src = "img/RU_Trento.png" width = "2000" height = "2000") />
+***
+<img src = "img/logoOpenDataTrentino.png" width = "2000" height = "2000") />
+
+Trentino Open Data Portal
+========================================================
+
+Portale Open Data della provincia di Trento  
+
+
+<https://dati.trentino.it>
+
+- 5287 dataset
+- 214 organizzazioni
+- Basato su CKAN (<https://ckan.org/>)
+
+***
+<img src = "img/screenshot-dati.trentino.it.png" width = "800" height = "600") />
+
+
+
+========================================================
+
+### About CKAN
+
+CKAN is a tool for making open data websites. (Think of a content management system like WordPress – but for data, instead of pages and blog posts.) 
+
+It helps you manage and publish collections of data. It is used by national and local governments, research institutions, and other organizations who collect a lot of data.
+
+<img src = "img/Logo_Ckan.png" width = "300" height = "150") />
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
