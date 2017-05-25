@@ -1,11 +1,5 @@
 RUTrento Open Data pacakge
 ========================================================
-author: 
-date: 
-autosize: true
-
-
-
 
 <img src = "img/RU_Trento.png" width = "2000" height = "2000") />
 ***
@@ -62,7 +56,7 @@ RUTrentoOpenData
 ========================================================
 
 La funzione principale è:
- `{r} ask_tod(query)`
+__ask_tod(query)__
 
 ```{r, eval=FALSE}
 library('RUTrentoOpenData')

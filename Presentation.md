@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 RUTrento Open Data pacakge
 ========================================================
 
@@ -62,7 +57,7 @@ RUTrentoOpenData
 ========================================================
 
 La funzione principale è:
- `{r} ask_tod(query)`
+__ask_tod(query)__
 
 
 ```r
