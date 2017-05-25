@@ -41,6 +41,3 @@ It helps you manage and publish collections of data. It is used by national and 
 Slide With Plot
 ========================================================
 
-```{r, echo=FALSE}
-plot(cars)
-```

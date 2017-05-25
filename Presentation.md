@@ -32,7 +32,7 @@ Portale Open Data della provincia di Trento
 
 ### About CKAN
 
-CKAN is a tool for making open data websites. (Think of a content management system like WordPress â€“ but for data, instead of pages and blog posts.) 
+CKAN is a tool for making open data websites. (Think of a content management system like WordPress – but for data, instead of pages and blog posts.) 
 
 It helps you manage and publish collections of data. It is used by national and local governments, research institutions, and other organizations who collect a lot of data.
 
@@ -41,4 +41,3 @@ It helps you manage and publish collections of data. It is used by national and 
 Slide With Plot
 ========================================================
 
-![plot of chunk unnamed-chunk-1](Presentation-figure/unnamed-chunk-1-1.png)
